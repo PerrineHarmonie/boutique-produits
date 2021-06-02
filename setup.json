@@ -1,13 +1,12 @@
 {
     "forme_social": "association",
-    "logo": "https://raw.githubusercontent.com/brutdethe/boutique-data/main/logo.svg",
-    "nom": "Brut de thé",
+    "nom": "Perrine Pottiez",
     "a_propos": "https://www.brutdethé.fr",
-    "proprietaire": "Thaïs Erbs, Stéphane Langlois et Violaine Andrieux",
-    "email": "coucou@brutdethe.fr",
-    "site": "https://boutique.brutdethé.fr",
-    "siege": "6 rue d’Armaillé, 75017 Paris",
-    "enregistrement": "des greffes du tribunal de Paris",
-    "RCS": "899 032 494",
-    "APE": "1083-Z"
+    "proprietaire": "Perrine Pottiez",
+    "email": "pottiezperrine@yahoo.fr",
+    "site": "https://boutique.perrinepottiez.com",
+    "siege": " 20, rue Antonio Vivaldi, 31300 Toulouse",
+    "enregistrement": "des greffes du tribunal de Toulouse",
+    "RCS": "xxx xxx xxx",
+    "APE": "xxxx-x"
 }
