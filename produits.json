@@ -1,21 +1,23 @@
-[{
-    "id": "pot1",
-    "titre": {
-        "en": "Tea pot, black stoneware (glazed inside)",
-        "fr": "Pot à thé, grès noir (émaillé à l'intérieur)"
-    },
-    "modification": "2021-06-02",
-    "création": "2021-06-02",
-    "catégorie": "Pot",
-    "description": {
-        "en": "This tea box is glazed with an ash-based enamel, which gives it this rather lively aspect.",
-        "fr": "Ce pot à thé est recouvert d'un émail à base de cendre, ce qui lui donne cette aspect assez vivant."
-    },
-    "prix": 158.00,
-    "poids": 0.3,
-    "quantité_produite": 1,
-    "photos": [
-        "pot_1-a.jpg",
-        "pot_1-b.jpg"
-    ]
-}]
+[
+    {
+        "id": "pot1",
+        "titre": {
+            "en": "Tea pot, black stoneware (glazed inside)",
+            "fr": "Pot à thé, grès noir (émaillé à l'intérieur)"
+        },
+        "modification": "2021-06-02",
+        "création": "2021-06-02",
+        "catégorie": "Pot",
+        "description": {
+            "en": "This tea box is glazed with an ash-based enamel, which gives it this rather lively aspect.",
+            "fr": "Ce pot à thé est recouvert d'un émail à base de cendre, ce qui lui donne cette aspect assez vivant."
+        },
+        "prix": 158.00,
+        "poids": 0.3,
+        "quantité_produite": 1,
+        "photos": [
+            "pot_1-a.jpg",
+            "pot_1-b.jpg"
+        ]
+    }
+]
