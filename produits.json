@@ -1,5 +1,4 @@
-[
-    {
+[{
         "id": "pot1",
         "titre": {
             "en": "Tea pot, black stoneware (glazed inside)",
@@ -41,7 +40,7 @@
             "thA1.jpg",
             "thB1.jpg",
             "thC1.jpg",
-            "thD1.jpg",
+            "thD1.jpg"
         ]
     }
 ]
