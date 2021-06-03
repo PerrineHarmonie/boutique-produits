@@ -8,5 +8,25 @@
             "fr": "Le 茶罐 Cháguàn fait partie de la cérémonie du thé Chinoise",
             "en": "茶罐 Cháguàn is part of the Chinese tea ceremony ..."
         }
+    },
+    "Théière": {
+        "titre": {
+            "fr": "Théière",
+            "en": "Teapot"
+        },
+        "description": {
+            "fr": "Le 茶罐 Cháguàn fait partie de la cérémonie du thé Chinoise",
+            "en": "茶罐 Cháguàn is part of the Chinese tea ceremony ..."
+        }
+    },
+    "Bateau à thé": {
+        "titre": {
+            "fr": "Théière",
+            "en": "Teapot"
+        },
+        "description": {
+            "fr": "Le 茶罐 Cháguàn fait partie de la cérémonie du thé Chinoise",
+            "en": "茶罐 Cháguàn is part of the Chinese tea ceremony ..."
+        }
     }
 }
