@@ -1,14 +1,5 @@
 {
-    "Pot": {
-        "titre": {
-            "fr": "Pot à thé",
-            "en": "Tea box"
-        },
-        "description": {
-            "fr": "Dans le secret d'une boîte, les feuilles sont comme un trésor, camélia d'or",
-            "en": "In the secret of a box, the leaves are like a treasure, golden camellia"
-        }
-    },
+
     "Théière": {
         "titre": {
             "fr": "Théière",
@@ -27,6 +18,16 @@
         "description": {
             "fr": "Verseuse cueillie je t'ai posé au creux de mes mains. Une fleur d'eau",
             "en": "Picked jug I put you in the palm of my hands. A water flower"
+        }
+    },
+        "Pot": {
+        "titre": {
+            "fr": "Pot à thé",
+            "en": "Tea box"
+        },
+        "description": {
+            "fr": "Dans le secret d'une boîte, les feuilles sont comme un trésor, camélia d'or",
+            "en": "In the secret of a box, the leaves are like a treasure, golden camellia"
         }
     }
 }
