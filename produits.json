@@ -160,8 +160,8 @@
     {
         "id": "bol1",
         "titre": {
-            "en": "Bowl",
-            "fr": "Bol"
+            "en": "Bowl sweetness of spring",
+            "fr": "Bol douceur du printemps"
         },
         "modification": "2021-06-15",
         "création": "2021-06-15",
@@ -178,6 +178,29 @@
             "bolA1.jpg",
             "bolB1.jpg",
             "bolC1.jpg"
+        ]
+    },
+    {
+        "id": "bol2",
+        "titre": {
+            "en": "Bowl milky cloud",
+            "fr": "Bol nuage laiteux"
+        },
+        "modification": "2021-06-15",
+        "création": "2021-06-15",
+        "catégorie": "Bol",
+        "description": {
+            "en": "This bowl was pinched for a long time then I applied a light decantation of clay picked in nature, I then enameled it with ash",
+            "fr": "Ce bol a été longuement pincé puis j'ai appliqué une décantation légère d'argile cueillie dans la nature, je l'ai ensuite émaillé au cendres"
+        },
+        "prix": 120.00,
+        "poids": 0.126,
+        "capacité": 220,
+        "quantité_produite": 1,
+        "photos": [
+            "bolA2.jpg",
+            "bolB2.jpg",
+            "bolC2.jpg"
         ]
     }
 ]
