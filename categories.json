@@ -46,8 +46,18 @@
             "en": "Tea Boat"
         },
         "description": {
-            "fr": "Il contient l'océan infini de nos instants paisibles",
-            "en": "It contains the endless ocean of our peaceful moments"
+            "fr": "Dans l'océan infini de la création se déversent nos instants paisibles, nos débordements de joie",
+            "en": "In the infinite ocean of creation pour our peaceful moments, our overflows of joy"
+        }
+    },
+    "présentoir à thé": {
+        "titre": {
+            "fr": "Présentoir à thé",
+            "en": "Tea display"
+        },
+        "description": {
+            "fr": "Comme une feuille tombée délicatement d'un arbre",
+            "en": "Like a leaf delicately fallen from a tree"
         }
     }
 }
