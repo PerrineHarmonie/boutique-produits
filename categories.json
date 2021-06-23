@@ -59,5 +59,14 @@
             "fr": "Comme une feuille tombée délicatement d'un arbre",
             "en": "Like a leaf delicately fallen from a tree"
         }
-    }
+    },
+    "vase": {
+        "titre": {
+            "fr": "Vase",
+            "en": "Vase"
+        },
+        "description": {
+            "fr": "Quelques fleurs",
+            "en": "Like a leaf delicately fallen from a tree"
+        }
 }
