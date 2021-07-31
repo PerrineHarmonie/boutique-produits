@@ -8,8 +8,8 @@
         "création": "2021-06-02",
         "catégorie": "théière",
         "description": {
-            "en": "This teapot is modeled by the pinch technique, engobed with thin layers of clay settling and enamelled with oak ash and crushed minerals. It has a filter.",
-            "fr": "Cette théière est modelée par la technique du pincé, engobée de fines couches de décantation d'argile et émaillée aux cendres de chêne et minéraux broyés. Elle est dotée d'un filtre."
+            "en": "Long pinched clay balls, engobed with fine layers of clay settling and enamelled with oak ash and crushed minerals, this teapot is equipped with a filter.",
+            "fr": "De balles d'argiles longuement pincée, engobée de fines couches de décantation d'argile et émaillée aux cendres de chêne et minéraux broyés, cette théière est dotée d'un filtre."
         },
         "prix": 162.00,
         "poids": 0.15,
@@ -33,7 +33,7 @@
         "catégorie": "verseuse",
         "description": {
             "en": "This jug is modeled by the pinch technique, finely enamelled with oak ash and crushed minerals, it remains very slightly porous",
-            "fr": "Cette verseuse est modelée par la technique du pincé, finement émaillée aux cendres de chêne et minéraux broyés, elle reste très légèrement poreuse"
+            "fr": "Cette verseuse est modelée par pincements, finement émaillée aux cendres de chêne et minéraux broyés, elle reste très légèrement poreuse"
         },
         "prix": 92.00,
         "poids": 0.10,
@@ -55,7 +55,7 @@
         "catégorie": "verseuse",
         "description": {
             "en": "This jug is modeled by the pinch technique, enamelled with oak ash and crushed minerals, it has a slightly sparkling appearance",
-            "fr": "Cette verseuse est modelée par la technique du pincé, émaillée aux cendres de chêne et minéraux broyés, elle a un aspect légèrement scintillant"
+            "fr": "Cette verseuse est modelée par pincements, émaillée aux cendres de chêne et minéraux broyés, elle a un aspect légèrement scintillant"
         },
         "prix": 92.00,
         "poids": 0.108,
@@ -78,7 +78,7 @@
         "catégorie": "verseuse",
         "description": {
             "en": "This jug is modeled by the pinch technique, engobed with many layers of arigles decatations picked in nature, I then enameled it with oak ash and crushed minerals, it has a matte and soft appearance",
-            "fr": "Cette verseuse est modelée par la technique du pincé, engobée de nombreuses couches de décatations d'arigles cueillies dans la nature, je l'ai ensuite émaillée aux cendres de chêne et minéraux broyés, elle a un aspect mat et doux"
+            "fr": "Cette verseuse est modelée par pincements, engobée de nombreuses couches de décatations d'arigles cueillies dans la nature, je l'ai ensuite émaillée aux cendres de chêne et minéraux broyés, elle a un aspect mat et doux"
         },
         "prix": 102.00,
         "poids": 0.107,
@@ -100,7 +100,7 @@
         "catégorie": "verseuse",
         "description": {
             "en": "This jug is modeled by the pinch technique, enamelled with oak ash and crushed minerals, it has a matte and soft appearance",
-            "fr": "Cette verseuse est modelée par la technique du pincé, émaillée aux cendres de chêne et minéraux broyés, elle a un aspect mat et doux"
+            "fr": "Cette verseuse est modelée par pincements, émaillée aux cendres de chêne et minéraux broyés, elle a un aspect mat et doux"
         },
         "prix": 98.00,
         "poids": 0.181,
@@ -124,7 +124,7 @@
         "catégorie": "verseuse",
         "description": {
             "en": "This jug is modeled by the pinch technique, enamelled with oak ash and crushed minerals, it has a matte and soft appearance",
-            "fr": "Cette verseuse est modelée par la technique du pincé, émaillée aux cendres de chêne et minéraux broyés, elle a un aspect mat et doux"
+            "fr": "Cette verseuse est modelée par pincements, émaillée aux cendres de chêne et minéraux broyés, elle a un aspect mat et doux"
         },
         "prix": 92.00,
         "poids": 0.164,
@@ -168,7 +168,7 @@
         "catégorie": "bol",
         "description": {
             "en": "This bowl was pinched for a long time then I applied a light decantation of clay picked in nature, I then enameled it with ash",
-            "fr": "Ce bol a été longuement pincé puis j'ai appliqué une décantation légère d'argile cueillie dans la nature, je l'ai ensuite émaillé au cendres"
+            "fr": "Ce bol a été longuement pincé puis il a reçu une décantation légère d'argile cueillie dans la nature, je l'ai ensuite émaillé au cendres"
         },
         "prix": 122.00,
         "poids": 0.132,
@@ -191,7 +191,7 @@
         "catégorie": "bol",
         "description": {
             "en": "This bowl was pinched for a long time then I applied a light decantation of clay picked in nature, I then enameled it with ash",
-            "fr": "Ce bol a été longuement pincé puis j'ai appliqué une décantation légère d'argile cueillie dans la nature, je l'ai ensuite émaillé au cendres"
+            "fr": "Ce bol a été longuement pincé puis il a reçu une décantation légère d'argile cueillie dans la nature, je l'ai ensuite émaillé au cendres"
         },
         "prix": 122.00,
         "poids": 0.126,
@@ -214,7 +214,7 @@
         "catégorie": "théière",
         "description": {
             "en": "This teapot is modeled by the pinch technique, enamelled with oak ash and crushed minerals. It has a filter.",
-            "fr": "Cette théière est modelée par la technique du pincé, émaillée aux cendres de chêne et minéraux broyés. Elle est dotée d'un filtre."
+            "fr": "Cette théière est modelée par pincements, émaillée aux cendres de chêne et minéraux broyés. Elle est dotée d'un filtre."
         },
         "prix": 132.00,
         "poids": 0.056,
@@ -236,7 +236,7 @@
         "catégorie": "théière",
         "description": {
             "en": "This teapot is modeled by the pinch technique, enamelled with oak ash and crushed minerals. It has a filter.",
-            "fr": "Cette théière est modelée par la technique du pincé, émaillée aux cendres de chêne et minéraux broyés. Elle est dotée d'un filtre."
+            "fr": "Cette théière est modelée par pincements, émaillée aux cendres de chêne et minéraux broyés. Elle est dotée d'un filtre."
         },
         "prix": 132.00,
         "poids": 0.058,
@@ -259,7 +259,7 @@
         "catégorie": "théière",
         "description": {
             "en": "This teapot is modeled by the pinch technique, enamelled with oak ash and crushed minerals. It has a filter.",
-            "fr": "Cette théière est modelée par la technique du pincé, émaillée aux cendres de chêne et minéraux broyés. Elle est dotée d'un filtre."
+            "fr": "Cette théière est modelée par pincements, émaillée aux cendres de chêne et minéraux broyés. Elle est dotée d'un filtre."
         },
         "prix": 132.00,
         "poids": 0.057,
