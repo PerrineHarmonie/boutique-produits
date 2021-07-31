@@ -427,4 +427,25 @@
             "bolB7.jpg"
         ]
     }
+    {
+        "id": "bol8",
+        "titre": {
+            "en": "chinese shadow",
+            "fr": "Bol ombre chinoise"
+        },
+        "modification": "2021-07-31",
+        "création": "2021-07-31",
+        "catégorie": "bol",
+        "description": {
+            "en": "Long pinched, this small bowl has been ash enameled for a slightly sparkling result. The three bowls are similar but are unique at the same time, the capacity and the weight are therefore approximate",
+            "fr": "Longuement pincé, ce bol de petite taille a été émaillé au cendres pour un résultat légèrement scintillant. Les trois bols sont similaires mais sont uniques à la fois, la contenance est le poids est donc approximatif"
+        },
+        "prix": 48.00,
+        "poids": 0.084,
+        "capacité": 110,
+        "quantité_produite": 3,
+        "photos": [
+            "bolA8.jpg"
+        ]
+    }
 ]
