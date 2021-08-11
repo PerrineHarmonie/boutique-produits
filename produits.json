@@ -709,5 +709,50 @@
             "veB7.jpg",
             "veC7.jpg"
         ]
+    },
+    {
+        "id": "pot2",
+        "titre": {
+            "en": "Little tea pot",
+            "fr": "Petit pot à thé"
+        },
+        "modification": "2021-08-11",
+        "création": "2021-08-11",
+        "catégorie": "pot",
+        "description": {
+            "en": "This pot is ideal for presenting your tea and keeping it while letting it breathe, like all my objects, it is modeled by pinching a ball of clay, then enamelled with ashes",
+            "fr": "Ce pot est idéal pour présenter votre thé et le conserver tout en le laissant respirer, comme tous mes objets il fait en modelage par pincement d'une boule d'argile, puis émaillé aux cendres"
+        },
+        "prix": 82.00,
+        "poids": 0.103,
+        "capacité": 90,
+        "quantité_produite": 1,
+        "photos": [
+            "potA2.jpg",
+            "potB2.jpg"
+        ]
+    },
+    {
+        "id": "pot3",
+        "titre": {
+            "en": "Tea pot",
+            "fr": "Pot à thé"
+        },
+        "modification": "2021-08-11",
+        "création": "2021-08-11",
+        "catégorie": "pot",
+        "description": {
+            "en": "This pot is ideal for presenting your tea and keeping it while letting it breathe, like all my objects, it is modeled by pinching a ball of clay, then enamelled with ashes",
+            "fr": "Ce pot est idéal pour présenter votre thé et le conserver tout en le laissant respirer, comme tous mes objets il fait en modelage par pincement d'une boule d'argile, puis émaillé aux cendres"
+        },
+        "prix": 112.00,
+        "poids": 0.129,
+        "capacité": 125,
+        "quantité_produite": 1,
+        "photos": [
+            "potA3.jpg",
+            "potB3.jpg",
+            "potC3.jpg"
+        ]
     }
 ]
