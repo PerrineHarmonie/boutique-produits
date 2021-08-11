@@ -774,5 +774,47 @@
         "photos": [
             "vaseA2.jpg"
         ]
+    },
+    {
+        "id": "présentoir1",
+        "titre": {
+            "en": "Tea display",
+            "fr": "Présentoir à thé"
+        },
+        "modification": "2021-08-11",
+        "création": "2021-08-11",
+        "catégorie": "présentoir",
+        "description": {
+            "en": "This display was pinched from a clay ball, I then glazed it with ash. It measures approximately 14 centimeters in length and will allow you to create a beautiful presentation for your dry tea or after brewing.",
+            "fr": "Ce présentoir a été pincé à partir d'une boule d'argile, je l'ai ensuite émaillé au cendres. Il mesure environ 14 centimètres de longueur et vous permettra de créer une belle présentation pour votre thé sec ou après l'infusion."
+        },
+        "prix": 42.00,
+        "poids": 0.60,
+        "quantité_produite": 1,
+        "photos": [
+            "presA1.jpg",
+            "presB1.jpg"
+        ]
+    },
+    {
+        "id": "présentoir2",
+        "titre": {
+            "en": "Tea display",
+            "fr": "Présentoir à thé"
+        },
+        "modification": "2021-08-11",
+        "création": "2021-08-11",
+        "catégorie": "présentoir",
+        "description": {
+            "en": "This display was pinched from a clay ball, I then glazed it with ash. It measures approximately 14 centimeters in length and will allow you to create a beautiful presentation for your dry tea or after brewing.",
+            "fr": "Ce présentoir a été pincé à partir d'une boule d'argile, je l'ai ensuite émaillé au cendres. Il mesure environ 14 centimètres de longueur et vous permettra de créer une belle présentation pour votre thé sec ou après l'infusion."
+        },
+        "prix": 42.00,
+        "poids": 0.45,
+        "quantité_produite": 1,
+        "photos": [
+            "presA2.jpg",
+            "presB2.jpg"
+        ]
     }
 ]
