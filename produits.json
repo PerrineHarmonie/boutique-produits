@@ -402,28 +402,6 @@
         ]
     },
     {
-        "id": "th5",
-        "titre": {
-            "en": "Teapot 175 ml",
-            "fr": "Théière 175 ml"
-        },
-        "modification": "2021-08-11",
-        "création": "2021-08-11",
-        "catégorie": "théière",
-        "description": {
-            "en": "This teapot is modeled by the pinch technique, long engobed with a settling of wild clay, enamelled with oak ash and crushed minerals. It has a filter.",
-            "fr": "Cette théière est modelée par pincements, longuement engobée d'une décantation d'argile sauvage, émaillée aux cendres de chêne et minéraux broyés. Elle est dotée d'un filtre."
-        },
-        "prix": 162.00,
-        "poids": 0.158,
-        "capacité": 175,
-        "quantité_produite": 1,
-        "photos": [
-            "thA5.jpg",
-            "thB5.jpg"
-        ]
-    },
-    {
         "id": "th8",
         "titre": {
             "en": "Teapot 195 ml",
